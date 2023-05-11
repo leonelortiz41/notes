@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="150mm"
+   viewBox="0 0 210 150"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="logo-notes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.99276681"
+     inkscape:cx="407.44714"
+     inkscape:cy="300.1712"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.4444px;line-height:0px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#5d01b1;stroke-width:7;stroke-linecap:square;stroke-miterlimit:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       x="93.941971"
+       y="125.91029"
+       id="text236"
+       transform="rotate(-11.238406)"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.4444px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff;fill-opacity:1;stroke:#5d01b1;stroke-width:7;stroke-opacity:1"
+         x="93.941971"
+         y="125.91029"></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.4444px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff;fill-opacity:1;stroke:#5d01b1;stroke-width:7;stroke-opacity:1"
+         id="tspan238"
+         x="93.941963"
+         y="125.91029">Notes</tspan></text>
+    <path
+       style="fill:#dcc0fd;fill-opacity:1;stroke:#5d01b1;stroke-width:7;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 11.992998,45.040368 c 43.791903,-25.669153 87.849271,-5.497357 130.856932,-7.72882 31.90397,-1.655346 29.93158,-14.69112 37.84457,-18.122752 3.31537,19.557999 4.76394,5.560776 22.12041,27.450638 -3.16365,11.127612 -15.71502,25.760197 -14.12508,21.587395 7.72944,-20.285909 -10.34821,-33.454541 -13.05904,-30.38226 0,0 -32.96456,11.372768 -69.55939,11.726488 C 68.102417,49.938059 42.649928,48.252309 34.842222,71.875356 27.247113,94.855163 17.338658,142.00753 77.554718,130.59041 l 114.866262,-26.6511 -82.88494,33.58039 -97.543043,-1.06604 z"
+       id="path452"
+       sodipodi:nodetypes="csccscsascccc" />
+  </g>
+</svg>
